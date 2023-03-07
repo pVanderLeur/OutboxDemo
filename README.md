@@ -1,1 +1,1 @@
-# Demo app for outbox pattern
+# Demo app for outbox and inbox patterns
